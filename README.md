@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I’m currently working on bioactive peptide discovery by employing machine learning & NLP & molecular docking & dynamics simulation
 [![Zhenjiao's github stats](https://github-readme-stats.vercel.app/api?username=dzjxzyd&show_icons=true)](https://github.com/lileipisces/github-readme-stats)
