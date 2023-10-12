@@ -1,9 +1,12 @@
 ### Hi there 👋
 🔭 I’m currently working on bioactive peptide discovery by employing machine learning & NLP & molecular docking & dynamics simulation
 
+
 🌱 I’m currently learning NLP, especially focusing on large language model
 
+
 📫 How to reach me: zhenjiao.at.ksu.edu
+
 
 😄 Pronouns: He/Him
 
