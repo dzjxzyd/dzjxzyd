@@ -5,7 +5,7 @@
 🌱 I’m currently learning NLP, especially focusing on large language model
 
 
-📫 How to reach me: zhenjiao.at.ksu.edu
+📫 How to reach me: zhenjiao.du.at.duke.edu
 
 
 😄 Pronouns: He/Him
